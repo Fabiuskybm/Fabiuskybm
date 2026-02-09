@@ -23,25 +23,26 @@
 ## 🚀 Proyectos Destacados
 
 ### 📚 Bookstore  
-Plataforma e-commerce desarrollada con **PHP, MySQL, Docker y JavaScript**, siguiendo arquitectura MVC y buenas prácticas de desarrollo.  
-Incluye autenticación de usuarios, gestión de wishlist persistente y componentes interactivos desarrollados con **React** para funcionalidades dinámicas.
+Aplicación e-commerce desarrollada con **PHP 8.2, MySQL y Docker**, siguiendo arquitectura modular por dominios y patrón MVC.  
+Incluye autenticación con roles, wishlist persistente, packs de productos y módulo de valoraciones en **React 18**, con frontend moderno basado en Webpack y SASS.
 
 🔗 https://github.com/Fabiuskybm/bookstore  
 
 ---
 
-### 🌦️ Integración de Servicios Externos (SOAP & RSS)  
-Aplicación orientada a la integración y consumo de **servicios web SOAP y feeds RSS**, incluyendo procesamiento de datos meteorológicos (AEMET) y renderizado dinámico en frontend.
+### 🌦️ UT7 – SOAP, RSS y AEMET  
+Aplicación PHP orientada a la integración de servicios externos:  
+implementa un **servicio SOAP propio**, consumo y cacheo de **RSS (Europa Press)** y proxy seguro para **AEMET OpenData**, con separación por capas e infraestructura Docker.
 
 🔗 https://github.com/Fabiuskybm/ut7-soap-rss-aemet  
 
 ---
 
 ### 🎮 Gamestore  
-Aplicación web con gestión de catálogo y base de datos relacional, contenedorizada con **Docker**.  
-Enfoque en modelado de datos, migración a MySQL y organización estructurada por capas.
+Tienda online desarrollada con **PHP, MySQL y Docker**, aplicando arquitectura MVC simplificada.  
+Incluye autenticación de usuarios, gestión de sesiones y estructura preparada para CRUD y escalabilidad por capas.
 
-🔗 https://github.com/Fabiuskybm/gamestore   
+🔗 https://github.com/Fabiuskybm/gamestore  
 
 <br>
 
