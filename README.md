@@ -61,6 +61,6 @@ Incluye autenticación de usuarios, gestión de sesiones y estructura preparada 
   <img width="32" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" />
 </a>&nbsp;&nbsp;&nbsp;
 
-<a href="mailto:fabio.benitezmolina@gmail.com" target="_blank" rel="noopener noreferrer">
+<a href="mailto:fabio.benitezmolina@gmail.com">
   <img width="32" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
 </a>
