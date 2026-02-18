@@ -36,13 +36,6 @@ implementa un **servicio SOAP propio**, consumo y cacheo de **RSS (Europa Press)
 
 🔗 https://github.com/Fabiuskybm/ut7-soap-rss-aemet  
 
----
-
-### 🎮 Gamestore  
-Tienda online desarrollada con **PHP, MySQL y Docker**, aplicando arquitectura MVC simplificada.  
-Incluye autenticación de usuarios, gestión de sesiones y estructura preparada para CRUD y escalabilidad por capas.
-
-🔗 https://github.com/Fabiuskybm/gamestore  
 
 <br>
 
